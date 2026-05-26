@@ -156,11 +156,6 @@ All file paths are **relative to the project root** (no machine-specific absolut
 | Output posts CSV | `data/gartner_cso_posts_extracted.csv` | `--output` on `posts` |
 | Session file | `data/linkedin_session.json` | `--session` or `main.py session --output` |
 
-### What is *not* hardcoded
-
-- No absolute paths (e.g. `C:\Users\...` or `Downloads\`)
-- No API keys or LinkedIn passwords in source code
-- Company list comes from your CSV inputs, not a fixed list in code (except the optional `--pilot` test set on `urls`)
 
 ### Domain-specific rules (intentional)
 
