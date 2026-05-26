@@ -1,0 +1,20 @@
+Gartner CSO 2026 post extraction — 2026-05-26
+Companies in input:     65
+Companies with posts:   54
+Companies without posts:11
+Total post rows:        181
+  Company page posts:   83
+  Employee posts:       98
+
+Companies with no posts found:
+  - 1mind
+  - Adobe
+  - Arist
+  - Canva
+  - Centralize
+  - LeanData
+  - Map My Customers
+  - Nooks
+  - Salesforce
+  - Unboxed Training & Technology
+  - Zoho Corporation

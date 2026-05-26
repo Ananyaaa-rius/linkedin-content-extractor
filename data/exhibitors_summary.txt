@@ -1,0 +1,13 @@
+Gartner Exhibitors CSV — Parse Summary
+========================================
+Total rows parsed:        144
+Company rows (Name set):  65
+Continuation rows skipped: 79
+Unique companies output:  65
+
+Output files:
+  - C:\Users\Ananya Tiwari\Desktop\Linkedin Content Extractor\data\exhibitors_clean.csv
+  - C:\Users\Ananya Tiwari\Desktop\Linkedin Content Extractor\data\linkedin_urls.csv
+
+Notes / parse messages:
+  - Ignored 79 product continuation row(s) (empty Name).
